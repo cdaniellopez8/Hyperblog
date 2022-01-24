@@ -5,6 +5,13 @@ body
     font-family: Arial;
     font-size: 16px;
 }
+#cabecera
+{
+    background : #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
 #container
 {
     width: 70%;
